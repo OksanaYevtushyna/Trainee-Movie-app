@@ -1,0 +1,31 @@
+.App-header {
+    grid-area: App-header;
+}
+.navigation {
+    background-color: #024161;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 60px 0 35px;
+}
+ul {
+    display: flex;
+    list-style: none;
+}
+.navbar li {
+    line-height: 54px;
+}
+a {
+    padding: 25px 15px;
+    color: #fff;
+    text-decoration: none;
+}
+.navbar li:hover {
+    background-color: #1f52a4;
+}
+.logo {
+    font-size: 28px;
+    color: #fff;
+}
+span {
+    color: #932E9F;
+}

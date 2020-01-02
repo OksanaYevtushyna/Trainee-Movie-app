@@ -1,0 +1,21 @@
+.App-main {
+    grid-area: App-main;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.show {
+    height: 180px;
+    width: 170px;
+    padding: 5px 10px;
+}
+.show .opening {
+    display: none;
+}
+.active .opening {
+    display: block;
+}

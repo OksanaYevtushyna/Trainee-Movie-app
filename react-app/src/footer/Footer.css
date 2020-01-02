@@ -1,0 +1,12 @@
+.App-footer {
+    grid-area: App-footer;
+    display: flex;
+    justify-content: space-between;
+    background-color: #052C2B;
+    padding: 15px 50px;
+}
+
+.right_content, .left_content {
+    color: #7386A0;
+    font-size: 18px;
+}

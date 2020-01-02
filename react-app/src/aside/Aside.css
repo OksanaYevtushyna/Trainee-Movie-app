@@ -1,0 +1,6 @@
+.App-aside {
+    grid-area: App=aside;
+}
+.news {
+    padding: 0 23px;
+}
